@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi to all 👋
 I'm frontend developer and I try to be good at this, and it even works sometimes :blush:
 Please be free to contact me, I am interested in everything new, and if I have spare time, I will be happy to participate in some interesting project.
 
