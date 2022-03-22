@@ -1,7 +1,8 @@
-### Hi to all 👋
-I'm frontend developer and I try to be good at this, and it even works sometimes :blush:
-Please be free to contact me, I am interested in everything new, and if I have spare time, I will be happy to participate in some interesting project.
+### Hi everyone 👋
+I'm a software engineer(front-end) and I try to do my best and deep into IT.
 
-P.S. If you want to tell me smth about React or smth new in JS - pls write me to my Telegram @Anna_Justus :wink:
+Don't hesitate to contact me, I'm interested in everything new, and if I have free time and capacity, I'll be happy to participate in some interesting projects.
+
+You can contact me by telegram - @Anna_Justus 
 
 ![Iogsotot's github stats](https://github-readme-stats.vercel.app/api?username=Iogsotot&show_icons=true&theme=tokyonight&count_private=true)
